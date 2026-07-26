@@ -15,9 +15,8 @@ override.tf.json
 *.plan
 
 # Variable files (Secrets)
-*.tfvars
-*.tfvars.json
-!terraform.tfvars.example
+
+
 
 # Environment files
 .env
